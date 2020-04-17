@@ -6,14 +6,14 @@
 
 ### 스터디원
 - 예원
-- 은서 @yess98
-- 샛별 @sbyeol3
-- 현아
+- 은서 [@yess98](https://github.com/yess98)
+- 샛별 [@sbyeol3](https://github.com/sbyeol3)
+- 현아 [@hyunahOh](https://github.com/hyunahOh)
 
 ### 규칙
-1. 매주 일요일 23시 59분까지 CS 관련 글을 md파일로 2개 작성한다.
+1. `매주 일요일 23시 59분까지` CS 관련 글을 md파일로 2개 작성한다.
 2. 작성한 md파일은 본인의 github 레포지토리에 push한다.
-3. 업로드 하지 않은 파일은 개당 500원의 벌금을 낸다.
+3. 업로드 하지 않은 파일은 `개당 1000원`의 벌금을 낸다.
 
 ### 벌금 현황
 
