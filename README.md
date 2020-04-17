@@ -5,7 +5,7 @@
   - [참고2](https://github.com/gyoogle/tech-interview-for-developer)
 
 ### 스터디원
-- 예원
+- 예원 [@yeawon-you](https://github.com/yeawon-you)
 - 은서 [@yess98](https://github.com/yess98)
 - 샛별 [@sbyeol3](https://github.com/sbyeol3)
 - 현아 [@hyunahOh](https://github.com/hyunahOh)
